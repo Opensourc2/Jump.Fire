@@ -1,0 +1,4 @@
+name: FireShot
+version: ${project.version}
+main: fire.me.fireshot.FireShot
+api-version: 1.16
